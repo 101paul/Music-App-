@@ -1,6 +1,6 @@
 # 🎵 MusicWave – Web to Android App
 
-<img src="images/pic1.png" alt="Music App Banner" width="800">
+<img src="Images/pic1.png" alt="Music App Banner" width="800">
 
 **MusicWave** is a sleek and lightweight Android application that brings the magic of your favorite web-based music platform right to your phone!  
 Built using **WebView**, it delivers the same web experience but with the comfort of a native Android app — no browser tabs, no distractions, just pure music.
@@ -20,7 +20,7 @@ Built using **WebView**, it delivers the same web experience but with the comfor
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/pic2.png" alt="Music App Screenshot 2" width="300">
+  <img src="Images/pic2.png" alt="Music App Screenshot 2" width="300">
 </p>
 
 ---
